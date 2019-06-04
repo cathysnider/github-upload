@@ -5,6 +5,6 @@
     <title>Learn PHP</title>
 </head>
 <body>
-
+<p>Here is some content for now</p>
 </body>
 </html>
